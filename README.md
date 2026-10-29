@@ -1,3 +1,4 @@
+ HEAD
 # jc_mini_grocery
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Jc-Mini-Grocery
+JC Mini Grocery Store  is a small retail business 
+ 729b6a84d037d064f493696076ef095bac79efff
