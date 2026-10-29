@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885841125558",
+    "project_id": "jc-mini-mart",
+    "storage_bucket": "jc-mini-mart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885841125558:android:489bba9cb7e00a9f43c617",
+        "android_client_info": {
+          "package_name": "com.example.jc_mini_grocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiYSj_PPq6TEGUHtDkB4F1-8DLExjRC2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
